@@ -1,4 +1,4 @@
-# Display Price Card 
+# Display Shopping Card 
 - write needed code in [App.jsx](App.jsx) and create children components
 - In [Header.jsx](./src/components/Header.jsx) added header codes
 - In [Fooder.jsx](./src/components/Footer.jsx) added footer codes
